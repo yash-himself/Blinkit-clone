@@ -1,0 +1,53 @@
+#search {
+    width: 87vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.item-row {
+    height: 95px;
+}
+
+.item>img {
+    width: 90vw;
+    height: 5vh;
+    margin: 10px;
+}
+
+.item-row {
+    height: 77px;
+}
+
+.item-container {
+    height: auto;
+}
+
+.item-container {
+    width: 100%;
+
+    padding: 9px 3vw;
+    background-color: rgb(255, 255, 255);
+}
+
+.catagory-item {
+    width: 52vw;
+    margin: 5px 5px;
+}
+
+.item {
+
+    width: 20vw;
+    height: 70px;
+    padding: 0px 2vw;
+
+}
+
+footer>div>img {
+    margin-left: 47px;
+}
